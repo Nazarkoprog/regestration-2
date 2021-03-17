@@ -1,39 +1,42 @@
-.rg {
+.left {
     background: linear-gradient(156.5deg, #3566A6 15.6%, #5790DA 43.54%, #9EC9FF 74.53%, #F8F8F8 106.56%);
     background-repeat: no-repeat;
-    background-size: 31%;
-    font-family: 'Roboto',
-    sans-serif;
+    background-size: 100%;
+    font-family: 'Roboto',sans-serif;
+    position: absolute;
+    width: 440.29px;
+    height: 611.99px;
+    left: 3px;
+    top: 27px
 }
-.logo-rg{
-    margin-top: 50px;
-    margin-left: 160px;
+.logo-left{
+    padding-left: 184px;;
+    align-items: center;
 }
-.h1-rg {
+.h1-left {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     line-height: 23px;
     color:#fff;
     font-size: 20px;
     margin-left: 140px;
-    
 
 }
-.img-rg {
+.img-left {
     position: absolute;
-    width: 267.98px;
-    height: 255.48px;
-    left: 132.74px;
-    top: 335.62px;
+    width: 268px;
+    height: 255px;
+    left: 173px;
+    top: 355px;
 }
-.img2-rg{
+.img2-left{
     position: absolute;
     width: 240.06px;
     height: 231.91px;
-    left: -72px;
-    top: 276.1px;
+    left: 12px;
+    top: 156px;
 }
-.span-rg{
+.span-left{
     font-family: 'PT Sans', sans-serif;
     color:#fff;
     margin-left: 70px;
