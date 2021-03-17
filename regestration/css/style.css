@@ -12,6 +12,7 @@
 .logo-left{
     padding-left: 184px;;
     align-items: center;
+    margin-top: 47px;
 }
 .h1-left {
     font-family: 'Roboto', sans-serif;
@@ -19,7 +20,7 @@
     line-height: 23px;
     color:#fff;
     font-size: 20px;
-    margin-left: 140px;
+    text-align:center;
 
 }
 .img-left {
@@ -33,11 +34,12 @@
     position: absolute;
     width: 240.06px;
     height: 231.91px;
-    left: 12px;
-    top: 156px;
+    left: 2px;
+    top: 196px;
 }
 .span-left{
     font-family: 'PT Sans', sans-serif;
     color:#fff;
-    margin-left: 70px;
+    padding-left: 89px;
+    margin-top: 59px;
 }
