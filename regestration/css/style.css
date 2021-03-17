@@ -1,0 +1,40 @@
+.rg {
+    background: linear-gradient(156.5deg, #3566A6 15.6%, #5790DA 43.54%, #9EC9FF 74.53%, #F8F8F8 106.56%);
+    background-repeat: no-repeat;
+    background-size: 31%;
+    font-family: 'Roboto',
+    sans-serif;
+}
+.logo-rg{
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.h1-rg {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 23px;
+    color:#fff;
+    font-size: 20px;
+    margin-left: 140px;
+    
+
+}
+.img-rg {
+    position: absolute;
+    width: 267.98px;
+    height: 255.48px;
+    left: 132.74px;
+    top: 335.62px;
+}
+.img2-rg{
+    position: absolute;
+    width: 240.06px;
+    height: 231.91px;
+    left: -72px;
+    top: 276.1px;
+}
+.span-rg{
+    font-family: 'PT Sans', sans-serif;
+    color:#fff;
+    margin-left: 70px;
+}
