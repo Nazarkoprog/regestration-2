@@ -7,9 +7,11 @@
     font-weight: normal;
     font-style: normal;
 }
+@import url(../font/stylesheet.css);
 
 body{
     background: #FFCB9B;
+    font-family:Gilroy;
 }
 .left {
     background: linear-gradient(156.5deg, #3566A6 15.6%, #5790DA 43.54%, #9EC9FF 74.53%, #F8F8F8 106.56%);
@@ -19,10 +21,9 @@ body{
     position: absolute;
     width: 382px;
     height: 585px;
-    left: 150px;
-    top: 27px
+    left: 130px;
+    top: 57px
 }
-
 .logo-left{
     padding-left: 165px;;
     align-items: center;
@@ -74,8 +75,8 @@ body{
     position: absolute;
     width: 386px;
     height: 585px;
-    left: 0px;
-    top: 0px;
+    left: -18px;
+    top: 30px;
 }
 
 .link-right{
@@ -136,6 +137,7 @@ body{
     border:none;
     background:none;
     width:278px;
+    outline: none;
 }
 .right-input::placeholder {
     color: #3566A6;
@@ -152,6 +154,7 @@ body{
     background: linear-gradient(89.75deg, #FFD745 4.76%, #FEC741 45.34%, #FBAA39 65.54%, #F98E32 93.22%);
     border-radius: 45px;
     color:#fff;
+    cursor:pointer;
 }
 .right-p{
     width:115px;
@@ -159,7 +162,7 @@ body{
 }
 .right-form{
     display: flex;
-    margin-top: 80px;
+    margin-top: 75px;
     margin-left: 85px;
 }
 .right-link{
