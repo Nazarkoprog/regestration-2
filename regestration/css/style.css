@@ -1,12 +1,4 @@
-@font-face {
-    font-family: 'Gilroy Thin';
-    src: url('../font/Gilroy-Thin.eot');
-    src: url('../font/Gilroy-Thin.eot?#iefix') format('embedded-opentype'),
-        url('../font/Gilroy-Thin.woff') format('woff'),
-        url('../font/Gilroy-Thin.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
+
 @import url(../font/stylesheet.css);
 
 body{
@@ -17,7 +9,7 @@ body{
     background: linear-gradient(156.5deg, #3566A6 15.6%, #5790DA 43.54%, #9EC9FF 74.53%, #F8F8F8 106.56%);
     background-repeat: no-repeat;
     background-size: 100%;
-    font-family: 'Roboto',sans-serif;
+    font-family: Gilroy;
     position: absolute;
     width: 382px;
     height: 585px;
@@ -25,7 +17,7 @@ body{
     top: 107px
 }
 .logo-left{
-    padding-left: 165px;;
+    padding-left: 165px;
     align-items: center;
     margin-top: 57px;
 }
@@ -35,7 +27,7 @@ body{
     height: 17px;
     left: 150px;
     top: 117px;
-    font-family: 'Roboto', sans-serif;
+    font-family: Gilroy;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
